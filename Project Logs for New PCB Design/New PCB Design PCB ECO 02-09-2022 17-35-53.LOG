@@ -1,0 +1,18 @@
+Change Component Description : Designator=R3 Old Description=Res Thick Film 2512 0.11 Ohm 1% 1W +/-600ppm/C Epoxy Pad SMD Automotive T/R New Description=1W ±1% ±600ppm/? -55?~+155? 110mO 2512 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R3"; Footprint = "RESC6432X65N"; UniqueID = "\UGUEGZNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RL2512FK-070R11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rl2512fk-070r11l/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RL_Group_521_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part #"; Value = "311-0.11TTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C876467"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RL2512FK-070R11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RL2512FK-070R11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/RL2512FK-070R11L/?qs=x8mT8l3Qr1Hhdc7K4N9hZA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "110mO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATT_CHG Pin=M1-20

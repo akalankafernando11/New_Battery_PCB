@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VIHNMEOM
 
 [Document5]
-DocumentPath=..\..\..\..\..\HP-PC\Downloads\SM02B-SRSS-TB_LF__SN_\SM02B-SRSS-TB_LF__SN_.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_MAX17048G+T10\MAX17048G+T10\PADS\Imported PADS Libraries.PrjPcb\MAX17048G+T10.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVGFWLIZ
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_MAX17048G+T10\MAX17048G+T10\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_MAX17048G+T10\MAX17048G+T10\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_MAX17048G+T10\MAX17048G+T10\PADS\Imported PADS Libraries.PrjPcb\SON50P200X200X80-9N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\Altium\Projects\Modules - Altium library\Modules - Altium library\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\Altium\Projects\Modules - Altium library\Modules - Altium library\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJJBELXR
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_CL05A106MQ5NUNC\CL05A106MQ5NUNC\PADS\Imported PADS Libraries.PrjPcb\CAPC1005X70N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_CL05A106MQ5NUNC\CL05A106MQ5NUNC\PADS\Imported PADS Libraries.PrjPcb\CL05A106MQ5NUNC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LURVEOFG
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_CL05A106MQ5NUNC\CL05A106MQ5NUNC\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_CL05A106MQ5NUNC\CL05A106MQ5NUNC\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_RL2512FK-070R11L\RL2512FK-070R11L\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_RL2512FK-070R11L\RL2512FK-070R11L\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_RL2512FK-070R11L\RL2512FK-070R11L\PADS\Imported PADS Libraries.PrjPcb\RESC6432X65N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_RL2512FK-070R11L\RL2512FK-070R11L\PADS\Imported PADS Libraries.PrjPcb\RL2512FK-070R11L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJUZTNMJ
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_AP9214L-AH-HSB-7\AP9214L-AH-HSB-7\PADS\Imported PADS Libraries.PrjPcb\AP9214LAHHSB7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,9 +358,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KRQXXLWY
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_AP9214L-AH-HSB-7\AP9214L-AH-HSB-7\PADS\Imported PADS Libraries.PrjPcb\AP9214L-AH-HSB-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIJZHUSN
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_AP9214L-AH-HSB-7\AP9214L-AH-HSB-7\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\..\..\..\..\HP-PC\Downloads\LIB_AP9214L-AH-HSB-7\AP9214L-AH-HSB-7\PADS\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,42 +411,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document23]
+DocumentPath=SnapEDApcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document24]
-DocumentPath=..\..\..\..\..\HP-PC\Downloads\SM02B-SRSS-TB_LF__SN_\SM02B-SRSS-TB_LF__SN_\SM02B-SRSS-TB_LF__SN_.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
-DocumentPath=..\..\..\..\..\HP-PC\Downloads\SM02B-SRSS-TB_LF__SN_\SM02B-SRSS-TB_LF__SN_\SnapEDApcb.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
-DocumentPath=..\..\..\..\..\HP-PC\Downloads\SM02B-SRSS-TB_LF__SN_\SM02B-SRSS-TB_LF__SN_\SnapEDAsch.SchLib
+DocumentPath=SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -478,6 +444,61 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
+
+[Document25]
+DocumentPath=..\..\..\..\..\HP-PC\Downloads\Conn_Hirose_ZX62D-AB-5P8(30)\parts\Conn_Hirose_ZX62D-AB-5P8_30_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ETTRVDLV
+
+[Document26]
+DocumentPath=..\..\..\..\..\HP-PC\Downloads\Conn_Hirose_ZX62D-AB-5P8(30)\parts\Conn_Hirose_ZX62D-AB-5P8_30_eec.STEP
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=..\..\..\..\..\HP-PC\Downloads\Conn_Hirose_ZX62D-AB-5P8(30)\parts\Conn_Hirose_ZX62D-AB-5P8_30_eec_MFG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for New PCB Design\Design Rule Check - New PCB Design.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -810,6 +831,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Mfr. Part #=100|Manufacturer=100|LCSC Part #=100|Value=100|Digi-Key Part #=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Mfr. Part #=100|Manufacturer=100|LCSC Part #=100|Value=100|Digi-Key Part #=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=

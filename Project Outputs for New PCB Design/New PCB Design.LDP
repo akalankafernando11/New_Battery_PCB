@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\GitHub\Project4\New_Battery_PCB\New PCB Design.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=new pcb design-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=new pcb design-slotholes.txt|DrillLayers=gtl,gbl
